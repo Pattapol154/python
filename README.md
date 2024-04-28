@@ -13,3 +13,9 @@
 
 ### Step 1 OOPs Concept
 1. [Understanding Oops concepts](https://github.com/Pattapol154/python/blob/main/Understanding%20Oops%20concepts.md/)
+  
+### Step 2 API  
+### Step 3 Automate Test    
+### Step 4 Pandas  
+### Step 5 ML 
+

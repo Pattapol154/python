@@ -1,13 +1,4 @@
-### python
-**Basics**
-1. Data Type
-2. Conditional Operations
-3. Operations for manipulating data
-4. Functions
-5. File Handling
-6. Libraries Installation
-
-**Data Type :**  
+## Data Type :  
 **Setting the Data type** / **Setting the Specific Data Type**
 - **str**
 ```

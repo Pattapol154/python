@@ -1,4 +1,4 @@
-###Step 0 Basic  
+### Step 0 Basic  
 1. Data Type
 2. Conditional Operations
 3. Operations for manipulating data

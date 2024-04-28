@@ -1,5 +1,5 @@
 ### Step 0 Basic  
-1. [Data Type](https://www.google.co.th/)
+1. [Data Type](https://github.com/Pattapol154/python/blob/main/Data%20Type.md/)
 2. Conditional Operations
 3. Operations for manipulating data
 4. Functions

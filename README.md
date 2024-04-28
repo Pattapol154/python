@@ -3,7 +3,7 @@
 2. [Convert Data Type](https://github.com/Pattapol154/python/blob/main/Convert%20Data%20Type.md/)
 3. [Input From Keyboard](https://github.com/Pattapol154/python/blob/main/Input%20From%20Keyboard.md/)
 4. [Conditional Operations](https://github.com/Pattapol154/python/blob/main/Conditional%20Operations.md/)
-5. [While Loop]
+5. [While Loop](https://github.com/Pattapol154/python/blob/main/While%20Loop.md/)
 6. [For Loop]
 7. [Try Except](https://github.com/Pattapol154/python/blob/main/Try%20Except.md/)
 8. [Operations for manipulating data](https://github.com/Pattapol154/python/blob/main/Operations%20for%20manipulating%20data.md/)

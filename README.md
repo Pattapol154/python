@@ -1,6 +1,6 @@
 ### Step 0 Basic  
 1. [Data Type](https://github.com/Pattapol154/python/blob/main/Data%20Type.md/)
-2. [Convert Data Type]
+2. [Convert Data Type](https://github.com/Pattapol154/python/blob/main/Convert%20Data%20Type.md/)
 3. [Input From Keyboard]
 4. [Conditional Operations](https://github.com/Pattapol154/python/blob/main/Conditional%20Operations.md/)
 5. [While Loop]

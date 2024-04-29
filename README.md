@@ -16,7 +16,7 @@
   
 ### Step 2 API  
 1. [Call Api](https://github.com/Pattapol154/python/blob/main/Call%20Api.md/)  
-2. [Api example]  
+2. [Api example](https://github.com/Pattapol154/python/blob/main/Api%20example.md/)
 ### Step 3 Automate Test    
 ### Step 4 Pandas  
 ### Step 5 ML 

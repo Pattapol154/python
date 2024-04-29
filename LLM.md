@@ -1,2 +1,2 @@
 ## LLM
-[LLM refer](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/README.md/)
+[LLM Document](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/README.md/)

@@ -20,4 +20,4 @@
 ### Step 3 Automate Test    
 ### Step 4 Pandas  
 ### Step 5 ML 
-[LLM Document](https://github.com/Pattapol154/python/blob/main/LLM.md/)
+[LLM Document](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/README.md/)
